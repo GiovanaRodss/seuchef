@@ -111,7 +111,7 @@ Atualiza as configurações do banner.
   "mobile_image": "banner-mobile.png"
 }
 
-### Observações
+# Observações
 O banner desktop deve respeitar a dimensão 1920x68 px.
 O banner mobile deve respeitar a dimensão 960x68 px.
 Imagens fora desse padrão podem gerar distorção na exibição do site.
